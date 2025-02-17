@@ -16,9 +16,9 @@ This is a simple **airplane queue simulator** written in **Java**. The simulator
     ```bash
     git clone https://github.com/sakurahibiki/AirplaneQueueSimulator.git
     ```
-2. **Running the Windows Executable**
+2. **Locate the JAR file**
    
-    Download and double-click the `.jar` file located in the `dist` folder.
+    Find the `.jar` file located in the `dist` folder.
 4. **Running the JAR File with Java**
 
     Ensure that you have Java installed on your system.
