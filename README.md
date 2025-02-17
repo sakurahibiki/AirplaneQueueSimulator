@@ -5,7 +5,7 @@ This is a simple **airplane queue simulator** written in **Java**. The simulator
 ## Features
 
 ✅ Developed a simulation of an airport queue system using queue data structures and an **interactive GUI**.  
-✅ Simulates airplane queuing based on FIFO (First-In, First-Out) logic.  
+✅ Simulates airplane queuing based on **FIFO (First-In, First-Out) logic**.  
 ✅ Integrated **time tracking**, multiple **airport terminals**, and a **flight processor** to help manage departures and landings efficiently.  
 ✅ Added features such as **View All** (displays queued flights) and **Run** (processes flight schedules dynamically).  
 ✅ Utilizes **file handling** and **CSV import/export** to store and retrieve airplane queue data.  
