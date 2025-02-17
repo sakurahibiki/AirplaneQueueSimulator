@@ -23,5 +23,5 @@ This is a simple **airplane queue simulator** written in **Java**. The simulator
 
     Ensure that you have Java installed on your system.
     ```bash
-    java -jar AirplaneQueueSimulator.jar
+    java -jar FlightSimulator.jar
     ```
