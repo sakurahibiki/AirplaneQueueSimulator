@@ -8,17 +8,20 @@ This is a simple **airplane queue simulator** written in **Java**. The simulator
 ✅ Prioritizes airplanes based on urgency.  
 ✅ Built with **Java** using **NetBeans**.  
 
-## How to Run The Simulator
+## How to Run the Program
 
-1. **Using Git**
+1. **Cloning the Repository**
+
     Clone this repository to your local machine:
     ```bash
     git clone https://github.com/sakurahibiki/AirplaneQueueSimulator.git
     ```
-2. **For Windows Executable**
-    Download and double-click the '.exe' file to launch the simulator.
-3. **For Java JAR**
-    Ensure you have Java installed on your system.
+2. **Running the Windows Executable**
+   
+    Download and double-click the `.jar` file located in the `dist` folder.
+4. **Running the JAR File with Java**
+
+    Ensure that you have Java installed on your system.
     ```bash
     java -jar AirplaneQueueSimulator.jar
     ```
